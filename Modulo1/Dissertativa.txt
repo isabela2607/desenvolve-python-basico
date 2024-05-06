@@ -1,0 +1,15 @@
+﻿Dissertativa.txt
+
+
+#Entrada
+#Processamento
+#Saída
+
+
+
+
+#E 1. Leia e armazene o número N que se deseja multiplicar por 9.
+#P 2. Subtraia N-1 e armazene como o primeiro dígito N1
+#P 3. Subtrair 10-N e armazene como o segundo dígito N2.
+#P 4. Realize a expressão (N1*10-)+N2 e armazene como resultado final R.
+#S 5. Apresente R e encerre o programa.

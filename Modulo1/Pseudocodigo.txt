@@ -1,0 +1,11 @@
+﻿Pseudocodigo.txt
+
+
+1- Ínicio
+2- Leia N #Entrada
+3- Armazene N #Entrada
+4- N1=N-1
+5- N2=10-N
+6- R= (N1*10)+N2
+7- Imprima R
+8- Fim
