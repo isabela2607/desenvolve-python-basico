@@ -1,0 +1,5 @@
+id,nome,senha,permissao
+1,Isabela,ger123,gerente
+2,Maria,senha123,funcionario
+3,Pedro,senha456,funcionario
+4,Helena,senha789,funcionario
